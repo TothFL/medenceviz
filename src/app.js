@@ -1,3 +1,9 @@
+// File: app.js
+// Author: Tóth Fedor László
+// Copyright: 2023, Tóth Fedor László
+// Date: 2023.06.06
+// Web: https://github.com/TothFL/
+
 const doc = {
     LenghtInput: document.querySelector('#Lenght'),
     HeightInput: document.querySelector('#Height'),
