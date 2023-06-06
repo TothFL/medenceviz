@@ -54,6 +54,7 @@ function checkInput(input) {
             return false;
         }        
     }else{
+        
         console.log("false");
         return false;
     }    

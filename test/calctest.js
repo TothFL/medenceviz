@@ -9,5 +9,6 @@ describe('Számítás tesztelése', () => {
         let actual = calcBodyVolume(1000, 1000, 1000);
         let expected = 990;
         expect(actual).toBeCloseTo(expected, 0.9);
+    
     });
 });
